@@ -1,0 +1,90 @@
+[
+  {
+    "Cuenta": "24242424444",
+    "Banco": "Santander",
+    "Ingresos": "105315",
+    "Egresos": "9656.88",
+    "Saldo Final": "105658.12",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "1066930618",
+    "Banco": "Banorte",
+    "Ingresos": "58569957.5",
+    "Egresos": "81197249.0986",
+    "Saldo Final": "-137991.1886",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "65505186126",
+    "Banco": "Santander",
+    "Ingresos": "2838729.83",
+    "Egresos": "4473031.5652",
+    "Saldo Final": "-965593.8752",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "82500896405",
+    "Banco": "Santander",
+    "Ingresos": "352795.61",
+    "Egresos": "187000",
+    "Saldo Final": "165795.61",
+    "Moneda": "USD"
+  },
+  {
+    "Cuenta": "1068183034",
+    "Banco": "Banorte",
+    "Ingresos": "4000",
+    "Egresos": "40.6",
+    "Saldo Final": "3959.4",
+    "Moneda": "USD"
+  },
+  {
+    "Cuenta": "Inversion",
+    "Banco": "Santander",
+    "Ingresos": "3707350.97",
+    "Egresos": "17897571.21",
+    "Saldo Final": "809779.76",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "Mata Factura",
+    "Banco": "SSR",
+    "Ingresos": ".79",
+    "Egresos": "0",
+    "Saldo Final": ".79",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "1077914753",
+    "Banco": "Banorte",
+    "Ingresos": "200000",
+    "Egresos": "0",
+    "Saldo Final": "200000",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "InversionB",
+    "Banco": "Banorte",
+    "Ingresos": "10079016.81",
+    "Egresos": "7012554",
+    "Saldo Final": "3066462.81",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "PRESTAMOS",
+    "Banco": "SSR",
+    "Ingresos": "",
+    "Egresos": "",
+    "Saldo Final": "0",
+    "Moneda": "MXN"
+  },
+  {
+    "Cuenta": "Efectivos",
+    "Banco": "Ventas",
+    "Ingresos": "200",
+    "Egresos": "200",
+    "Saldo Final": "0",
+    "Moneda": "MXN"
+  }
+]
