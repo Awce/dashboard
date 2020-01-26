@@ -1,7 +1,10 @@
 import React, { useState } from "react";
 import MenuLateral from "../components/MenuLateral";
-import { Input, Layout } from "antd";
-import BankChart from "../components/BankChart";
+import { Input, Layout, Row, Col } from "antd";
+import BanksChart from "../components/BanksChart";
+import InvoicesChart from "../components/InvoicesChart";
+import CxpsChart from "../components/CxpsChart";
+import CxcsChart from "../components/CxcsChart";
 
 const { Header, Sider, Content } = Layout;
 
@@ -35,7 +38,22 @@ function Home() {
               padding: 0
             }}
           >
-            <BankChart />
+            <Row gutter={[24, 16]}>
+              <Col className="gutter-row" span={24}>
+                <InvoicesChart />
+              </Col>
+            </Row>
+            <Row gutter={[8, 16]}>
+              <Col className="gutter-row" span={8}>
+                <CxpsChart />
+              </Col>
+              <Col className="gutter-row" span={8}>
+                <CxcsChart />
+              </Col>
+              <Col className="gutter-row" span={8}>
+                <BanksChart />
+              </Col>
+            </Row>
           </Content>
         </Layout>
       </Layout>

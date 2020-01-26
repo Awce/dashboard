@@ -19,7 +19,7 @@ function MenuLateral() {
       <UserProfile />
       <Menu.Item key="1">
         <Icon type="dashboard" />
-        <span>Dashboard</span>
+        <span>Información general</span>
       </Menu.Item>
       <Menu.Item key="2">
         <Icon type="google" />

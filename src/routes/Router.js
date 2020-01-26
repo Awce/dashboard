@@ -17,8 +17,8 @@ import NotFound from "../pages/NotFound";
 const AppRouter = () => {
   return (
     <Switch>
-      <Route path="/" exact component={Login} />
-      <Route path="/dashboard" exact component={Home} />
+      <Route path="/" exact component={Home} />
+      <Route path="/login" exact component={Login} />
       <Route component={NotFound} />
     </Switch>
   );
