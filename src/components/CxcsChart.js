@@ -47,7 +47,7 @@ function CxcsChart() {
         }}
       >
         <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="Alias" />
+        <XAxis dataKey="Cobranza" />
         <YAxis />
         <Tooltip />
         <Legend />

@@ -11,7 +11,7 @@ import {
 import { Card } from "antd";
 import axios from "axios";
 
-const dataBase = "ntb";
+const dataBase = "stark2019";
 const uriDataBase = "facturas.php/";
 
 function InvoicesChart() {
@@ -46,7 +46,7 @@ function InvoicesChart() {
         }}
       >
         <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="Alias" />
+        <XAxis dataKey="Factura" />
         <YAxis />
         <Tooltip />
         <Legend />

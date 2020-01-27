@@ -11,7 +11,7 @@ import {
 import { Card } from "antd";
 import axios from "axios";
 
-const dataBase = "ntb";
+const dataBase = "stark2019";
 const uriDataBase = "cxp.php/";
 
 function CxpsChart() {
@@ -47,7 +47,7 @@ function CxpsChart() {
         }}
       >
         <CartesianGrid strokeDasharray="3 3" />
-        <XAxis dataKey="Alias" />
+        <XAxis dataKey="Cobranza" />
         <YAxis />
         <Tooltip />
         <Legend />
