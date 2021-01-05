@@ -8,7 +8,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "antd": "^3.26.7",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "firebase": "^7.6.2",
     "fms-api-client": "^2.2.5",
     "react": "^16.12.0",
